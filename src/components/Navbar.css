@@ -1,0 +1,41 @@
+
+
+.menu ul {
+    list-style-type: none;
+    height: 75px;
+    width: 100%;
+    padding: 5px;
+    display: flex;
+    gap: 110px;
+    background-color: #ffff;
+    font-size: 12px;
+    font-weight: 510;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: fixed;
+    margin-top: -8px;
+
+    
+
+
+}
+
+.menu ul li {
+    position: relative;
+    margin-left: 135px;
+}
+
+.menu ul li a {
+    display: block;
+    padding: 10px 20px;
+    color: rgb(226, 22, 22);
+    text-decoration: none;
+    position: relative;
+    
+}
+
+
+
+
+
+
+
